@@ -75,7 +75,7 @@ END
 
 
 ### OUTPUT
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/88d4bef1-8685-47bf-9dc4-8fbd779e8f15" />
+<img width="984" height="592" alt="image" src="https://github.com/user-attachments/assets/88d4bef1-8685-47bf-9dc4-8fbd779e8f15" />
 
 ### RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
