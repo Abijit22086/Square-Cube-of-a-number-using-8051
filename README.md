@@ -28,7 +28,8 @@ END
 
 ```
 ### CALCULATION 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/f7f5a8ce-ac12-45a1-a2d4-746bdfb22452" />
+<img width="255" height="214" alt="image" src="https://github.com/user-attachments/assets/ceb7846f-c0cc-4478-b976-1c7baad64b81" />
+
 
 ### OUTPUT
 <img width="984" height="592" alt="image" src="https://github.com/user-attachments/assets/28a30fe5-9217-43f6-b8dc-5b29dda888c0" />
@@ -70,7 +71,8 @@ END
 
 ```
 ### CALCULATION 
-<img width="1568" height="1234" alt="image" src="https://github.com/user-attachments/assets/95562ea3-c605-4131-aa98-f0609f396611" />
+<img width="256" height="223" alt="image" src="https://github.com/user-attachments/assets/18e2aa1f-9da7-443a-a6ec-7a3e82c0dbd1" />
+
 
 ### OUTPUT
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/88d4bef1-8685-47bf-9dc4-8fbd779e8f15" />
