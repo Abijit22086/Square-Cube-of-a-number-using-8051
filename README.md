@@ -28,7 +28,7 @@ END
 
 ```
 ### CALCULATION 
-<img width="1556" height="1146" alt="image" src="https://github.com/user-attachments/assets/f7f5a8ce-ac12-45a1-a2d4-746bdfb22452" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/f7f5a8ce-ac12-45a1-a2d4-746bdfb22452" />
 
 ### OUTPUT
 <img width="984" height="592" alt="image" src="https://github.com/user-attachments/assets/28a30fe5-9217-43f6-b8dc-5b29dda888c0" />
@@ -73,7 +73,7 @@ END
 <img width="1568" height="1234" alt="image" src="https://github.com/user-attachments/assets/95562ea3-c605-4131-aa98-f0609f396611" />
 
 ### OUTPUT
-<img width="993" height="619" alt="image" src="https://github.com/user-attachments/assets/88d4bef1-8685-47bf-9dc4-8fbd779e8f15" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/88d4bef1-8685-47bf-9dc4-8fbd779e8f15" />
 
 ### RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
